@@ -3,4 +3,3 @@
 
 # Ignoring .ipynb_checkpoints file
 .ipynb_checkpoint
-*.fsp
